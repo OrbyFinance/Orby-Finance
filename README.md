@@ -1,2 +1,2 @@
 # ORBY-Token-smart-contracts
-The Orby Finance Token smart contracts for staking on asset tokens such as Orby
+Safe token backed by a strong global community We give Orby Finance a great utility. As a Orby Fianance holder you get access to the ecosystem of Orby Finance and all products associated.
